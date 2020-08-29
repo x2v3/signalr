@@ -4,9 +4,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/c561e13d50cdd11e97a1/maintainability)](https://codeclimate.com/github/x2v3/signalr/maintainability)
 [![codecov](https://codecov.io/gh/x2v3/signalr/branch/master/graph/badge.svg)](https://codecov.io/gh/x2v3/signalr)
 
-# Project depricated
 
-Unfortunately, I am no longer able to provide support for this project. Please see https://github.com/x2v3/signalr/network for some forks that have been created.
 
 # Overview
 
