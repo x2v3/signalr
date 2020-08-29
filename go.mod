@@ -1,4 +1,6 @@
-module github.com/carterjones/signalr
+module github.com/x2v3/signalr
+
+go 1.15
 
 require (
 	github.com/carterjones/go-cloudflare-scraper v0.1.2
